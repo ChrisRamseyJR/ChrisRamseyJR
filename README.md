@@ -1,5 +1,5 @@
 <h1 align="center">🤠 Howdy! I'm Chris</h1>
 <p align="center">
-I'm a Front-End developer building digital products.    
+I'm a Software Engineer building digital products.    
 </p>
 
